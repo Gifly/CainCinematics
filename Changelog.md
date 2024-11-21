@@ -15,4 +15,9 @@ Este juego fue hecho para el proyecto final de Captura de Movimiento
 - initial commit
 - Third Person template
 
-
+### v[0.0.1] 21-11-2024
+##### Añadido
+- Cain Skeletal Mesh
+- Cain Textures
+- Abel Skeletal Mesh
+- Abel Textures
